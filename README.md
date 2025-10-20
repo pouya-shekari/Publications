@@ -15,13 +15,13 @@
    Arash Ghorbannia Delavar  
    *Journal of Network and Computer Applications*, Vol. 237, pp. 104132, May 2025  
    Publisher: Academic Press  
-   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:DyXnQzXoVgIC)
+   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:jSAVyFp_754C)
 
 3. **IDCOST: A method for increasing data criterion service by scoring credit imbalanced data using applied SVM**  
    Arash Ghorbannia Delavar, Sadaf Sadat Ziya  
    *Journal of Modeling in Engineering*, Vol. 23, Special Issue 81, pp. 1-18, June 2025  
    Publisher: Semnan University  
-   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:jSAVyFp_754C)
+   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:DyXnQzXoVgIC)
 
 4. **IDCOST: A method for increasing data criterion service by scoring credit imbalanced data using applied SVM**  
    Arash Ghorbannia Delavar, Sadaf Ziya  
