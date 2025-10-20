@@ -104,7 +104,8 @@
 
 ## Citation Metrics
 
-**Total Citations**: 20+**
+**Total Citations**: 20+
+
 **Google Scholar Profile**: [View Profile](https://scholar.google.com/citations?user=FbvFpVsAAAAJ&hl=en&sortby=pubdate)
 
 ---
