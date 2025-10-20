@@ -9,7 +9,7 @@
    *Future Generation Computer Systems*, Vol. 166, pp. 107624, May 2025  
    Publisher: North-Holland  
    Citations: 4  
-   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:...)
+   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:blknAaTinKkC)
 
 2. **TPMCD: A method to optimizing cost and throughput for clustering tasks and hybrid containers in the cloud data center**  
    Arash Ghorbannia Delavar  
@@ -51,7 +51,7 @@
    Arash Ghorbannia Delavar, Reza Akraminejad, Sahar Mozafari  
    *Iranian Communication and Information Technology*, Vol. 15, No. 5758, pp. 62-76, January 2023  
    Publisher: Iranian Communication and Information Technology  
-   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:...)
+   [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FbvFpVsAAAAJ&sortby=pubdate&citation_for_view=FbvFpVsAAAAJ:isU91gLudPYC)
 
 8. **WSTMOS: A method for optimizing throughput, energy, and latency in cloud workflow scheduling**  
    Arash Ghorbannia Delavar, Reza Akraminejad, Sahar Mozafari  
