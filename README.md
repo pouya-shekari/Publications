@@ -1,4 +1,4 @@
-# Publications
+# Publications / Selected Papers of Prof. Dr. Arash Ghorbannia Delavar (2022–2025)
 
 ## Journal Papers
 
